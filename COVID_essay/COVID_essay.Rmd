@@ -8,11 +8,9 @@ output:
 <!-- title: "The Pandemic, Politics, and Inequality" -->
 <!-- author: "Evidence in Governance and Politics (EGAP) Newtork" -->
 
-Introduction[^1]
+Introduction
 ==
 How do *political conditions* shape societal responses to the COVID-19 crisis? And how do political conditions affect the extent to which consequences have been unequally endured?  We come at these questions as a network of academics and practitioners who specialize in innovations for governance, political participation, and accountability.  As such, we also want to know, what *interventions* might improve circumstances, particularly for those marginalized or facing heightened vulnerability?
-
-[^1]: Drafted by Cyrus Samii, Daniel Rubenson, and Max Mendez-Beck with input from Claire Adida, Natalia Bueno, Rob Blair, Ruth Canagarajah, Kim Yi Dionne, Miriam Golden, Jessica Gottlieb, Alex Hartman, Evan Lieberman, Raul Pacheco-Vega, Melina Platas, Alex Scacco, Ryan Sheely, Maarten Voors, and Rebecca Wolfe. For more on EGAP’s work, see https://egap.org/
 
 The Evidence in Governance and Politics (EGAP) network is putting forward this concept note to propose topics for governance, politics, and accountability researchers to consider and for donors to support. The concept note focuses on addressing inequalities, marginalization, and vulnerabilities that have been created and exposed by the COVID-19 crisis.  Research should not limit attention to mitigating the harms introduced by the pandemic per se. Rather, researchers should look closely at what the COVID-19 crisis reveals more generally about societies’ abilities to respond to crises and how the needs of the least well-off are addressed. Similar dynamics may follow other external shocks such as those related to climate change.  Crises of this magnitude can be revelatory in ways that shift the “Overton window” of policies that a critical mass of citizens will support, leading to policy and social changes that address longstanding inequalities. The New Deal reforms in the United States following the Great Depression exemplify this dynamic. Or, systems in place may protect fairly evenly against losses and mostly preserve ex ante conditions. On the other hand, if the government or the private sector fail to extend protection to the poor and vulnerable, such crises can leave them substantially worse off. A research priority ought to be in understanding what contributes to the latter kind of outcome and how this might be prevented. 
 
